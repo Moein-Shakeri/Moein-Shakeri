@@ -28,8 +28,5 @@ Developer
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moein-Shakeri" />
 </a>
 
-<a href="https://github.com/Moein-Shakeri" align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moein-Shakeri&show_icons=true&count_private=true&include_all_commits=true" /></a>
-
 
 
